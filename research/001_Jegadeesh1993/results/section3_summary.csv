@@ -1,0 +1,12 @@
+metric,value
+market_6m_serial_cov,0.00660897235135971
+market_6m_serial_corr,0.7113811096522324
+market_monthly_cov,-0.00035150225912498526
+market_monthly_corr,-0.158894760555785
+momentum_mean_monthly,0.003614992925209955
+momentum_nw_tstat,1.2432585895048
+reg_alpha,0.006157979077781886
+reg_theta_on_lagged_market_sq,-0.2759596173683839
+reg_theta_tstat,-0.919107007169447
+reg_theta_pvalue,0.3580396044970865
+n_obs_reg,125.0
